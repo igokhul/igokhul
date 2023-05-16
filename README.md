@@ -33,8 +33,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=igokhul&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <br>
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=igokhul)](https://github.com/VishwaGauravIn/github-twitter-card-embed)<br>
@@ -42,10 +40,5 @@
 ## GitHub Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=igokhul)  
 
-## GitHub metrics
+## GitHub Metrics
 ![GitHub metrics](https://metrics.lecoq.io/igokhul)  
-
-## GitHub streak stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=igokhul)  
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
