@@ -15,7 +15,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=igokhul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=igokhul&icon=5&color=12)](https://visitcount.itsvg.in)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=igokhul)  
+
+![GitHub metrics](https://metrics.lecoq.io/igokhul)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=igokhul)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
