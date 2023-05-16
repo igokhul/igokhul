@@ -57,7 +57,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=igokhul&border=false&theme=graywhite)](https://twitter.com/igokhul)
 
-# Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
