@@ -34,7 +34,7 @@
 [![](https://visitcount.itsvg.in/api?id=igokhul&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=igokhul&border=false&theme=graywhite)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=igokhul&border=false&theme=graywhite)](https://twitter.com/igokhul)
 
 ## GitHub Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=igokhul)  
