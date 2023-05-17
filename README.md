@@ -22,7 +22,6 @@
 
 <br>🏆 Competitive programming is my secret sauce 🧪 for honing problem-solving skills, enhancing logical thinking, and staying at the top of my game. Challenges excite me, and I'm always up for the next coding adventure! 💻⚔️<br><br>💥 So, if you're seeking a passionate, tech-savvy team player with a hunger for learning, a flair for community building, and a knack for problem-solving, then look no further! I'm ready to make a positive impact and thrive in the world of technology. Let's connect and create something incredible! 🚀✨
 </p>
----
 
 ## 🌐 Socials
 <!-- <p align="center"> -->
