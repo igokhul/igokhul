@@ -21,7 +21,7 @@
 <br>🐦 When I'm not coding or blogging, you can find me actively participating in tech discussions on Twitter, where I'm always ready to connect, learn, and contribute. Let's follow each other and be part of the vibrant tech conversation! 🐤<br>
 
 <br>🏆 Competitive programming is my secret sauce 🧪 for honing problem-solving skills, enhancing logical thinking, and staying at the top of my game. Challenges excite me, and I'm always up for the next coding adventure! 💻⚔️<br><br>💥 So, if you're seeking a passionate, tech-savvy team player with a hunger for learning, a flair for community building, and a knack for problem-solving, then look no further! I'm ready to make a positive impact and thrive in the world of technology. Let's connect and create something incredible! 🚀✨
-
+</p>
 ---
 
 ## 🌐 Socials
@@ -50,9 +50,9 @@
  
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igokhul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igokhul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=igokhul&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=igokhul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igokhul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=igokhul&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ---
@@ -76,4 +76,3 @@
 
 ## GitHub Metrics
 ![GitHub metrics](https://metrics.lecoq.io/igokhul)  
-</p>
