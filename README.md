@@ -3,7 +3,7 @@
 
 [![align = "center"](https://visitcount.itsvg.in/api?id=igokhul&icon=5&color=12)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+# 💫 About Me
 👋 Hey there! I'm Gokhul a tech enthusiast 🌟 and recent graduate 🎓 from the exciting realm of Bachelors of Technology in Information Technology! 🔥<br>
 <br>💡 With a burning passion for community-driven tech initiatives, I'm all geared up to dive into the tech world 🌍 and make a meaningful impact alongside brilliant minds like yours. 💪<br>
 
@@ -20,7 +20,7 @@
 
 <br>🏆 Competitive programming is my secret sauce 🧪 for honing problem-solving skills, enhancing logical thinking, and staying at the top of my game. Challenges excite me, and I'm always up for the next coding adventure! 💻⚔️<br><br>💥 So, if you're seeking a passionate, tech-savvy team player with a hunger for learning, a flair for community building, and a knack for problem-solving, then look no further! I'm ready to make a positive impact and thrive in the world of technology. Let's connect and create something incredible! 🚀✨
 
-# 🌐 Socials:
+## 🌐 Socials
 <p align="center">
 <a href="https://twitter.com/igokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igokhul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/igokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igokhul" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 <a href="/https://qubesx.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://qubesx.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -40,7 +40,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
  
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igokhul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igokhul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="200" alt="languages graph"  />
@@ -57,7 +57,8 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=igokhul&border=false&theme=graywhite)](https://twitter.com/igokhul)
 
-## Blogs posts
+## Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
