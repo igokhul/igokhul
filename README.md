@@ -69,6 +69,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Open Source: Exploring the Benefits and Possibilities](https://qubesx.hashnode.dev/unleashing-the-power-of-open-source-exploring-the-benefits-and-possibilities)
+- [This is how I debunk spams and what you can learn from it](https://qubesx.hashnode.dev/this-is-how-i-debunk-spams-and-what-you-can-learn-from-it)
+- [Why Learning to Code is Essential: Leverage Your Skills for a Better Future](https://qubesx.hashnode.dev/why-learning-to-code-is-essential-leverage-your-skills-for-a-better-future)
+- [Understanding the Differences Between Programmer and Coder](https://qubesx.hashnode.dev/understanding-the-differences-between-programmer-and-coder)
+- [What you need to know to learn programming language](https://qubesx.hashnode.dev/what-you-need-to-know-to-learn-programming-language)
 <!-- BLOG-POST-LIST:END -->
 
 ---
