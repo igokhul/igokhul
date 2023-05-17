@@ -5,6 +5,7 @@
 
 
 # 💫 About Me
+<p align="justify">
 👋 Hey there! I'm Gokhul a tech enthusiast 🌟 and recent graduate 🎓 from the exciting realm of Bachelors of Technology in Information Technology! 🔥<br>
 <br>💡 With a burning passion for community-driven tech initiatives, I'm all geared up to dive into the tech world 🌍 and make a meaningful impact alongside brilliant minds like yours. 💪<br>
 
@@ -75,3 +76,4 @@
 
 ## GitHub Metrics
 ![GitHub metrics](https://metrics.lecoq.io/igokhul)  
+</p>
