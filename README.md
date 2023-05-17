@@ -23,6 +23,8 @@
 <br>🏆 Competitive programming is my secret sauce 🧪 for honing problem-solving skills, enhancing logical thinking, and staying at the top of my game. Challenges excite me, and I'm always up for the next coding adventure! 💻⚔️<br><br>💥 So, if you're seeking a passionate, tech-savvy team player with a hunger for learning, a flair for community building, and a knack for problem-solving, then look no further! I'm ready to make a positive impact and thrive in the world of technology. Let's connect and create something incredible! 🚀✨
 </p>
 
+---
+
 ## 🌐 Socials
 <!-- <p align="center"> -->
 <a href="https://twitter.com/igokhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igokhul" height="30" width="40" /></a>
@@ -66,7 +68,7 @@
 
 ---
 
-## Blog posts
+## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Unleashing the Power of Open Source: Exploring the Benefits and Possibilities](https://qubesx.hashnode.dev/unleashing-the-power-of-open-source-exploring-the-benefits-and-possibilities)
