@@ -10,7 +10,6 @@
 </a>
 
 
-
 # 💫 About Me
 <p align="justify">
 👋 Hey there! I'm Gokhul a tech enthusiast 🌟 and recent graduate 🎓 from the exciting realm of Bachelors of Technology in Information Technology! 🔥<br>
